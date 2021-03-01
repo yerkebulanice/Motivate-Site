@@ -1,0 +1,103 @@
+.main{
+    display: inline-block;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    /* box-sizing: border-box; */
+}
+
+.Genre{
+    float: left;
+    width: 100%;
+    padding-top: 100px; 
+}
+.Genres_block{
+    webkit-margin-start: 2%; 
+    margin-top: 11%;
+}
+
+.Genres_block li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 250px;
+    background-color: #8ec4dd;
+}
+
+.Genres_block a {
+    display: block;
+    color: whitesmoke;
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+.Genres_block a:hover {
+    background-color: #a2d5f2;
+    color: white;
+}
+
+.Genres_block ul li a {
+    border-bottom:1px solid #51adcf;
+}
+
+.Author_block{
+   -webkit-margin-start: 2%; 
+    overflow: hidden;
+}
+
+.Author_block li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    text-align: center;
+    background-color: #8ec4dd;
+}
+
+.Author_block a {
+    display: block;
+    color: whitesmoke;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.Author_block a:hover {
+    background-color: #a2d5f2;
+    color: black;
+}
+
+.Author_block ul li a {
+    border-bottom:1px solid #51adcf;
+}
+
+.citata{
+    float: left;
+    margin-left: 35%;
+    margin-top: -69%;
+    margin-right: 5px;
+    padding-bottom: 5%;
+}
+
+.aforism{
+    width:80%;
+    height: 20%;
+    background-color:#a2d5f2;
+}
+
+.jai{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.bas{
+    /* font-size: xxx-large; */
+    font-family: Gabriola;
+    text-align: center;
+
+}
+.icofont-bird{
+    padding-bottom: 8px;
+    padding-right: 8px;
+}

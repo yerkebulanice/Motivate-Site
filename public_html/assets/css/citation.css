@@ -1,0 +1,48 @@
+.fixed {
+  margin-top: -1280px;
+  margin-bottom: 100px;
+  max-height: 80%;
+  max-width: 90%;
+  margin-left: 400px;
+
+}
+.citation{
+	background-color: rgb(74, 153, 187);
+	border: 3px solid;
+	border-color: rgb(255, 215, 0);
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin: 30px;
+	font-size: 120%;
+}
+.cit{
+	font-size: 200%; 
+	text-align: center;
+}
+.fixed1 {
+  margin-top: -1280px;
+  margin-bottom: 100px;
+  max-height: 90%;
+  max-width: 90%;
+  margin-left: 300px;
+
+}
+.fixed2 {
+  margin-top: -1280px;
+  margin-bottom: 800px;
+  margin-left: 300px;
+  max-height: 90%;
+  max-width: 90%;
+}
+.fixed3 {
+  max-width: 90%;
+  margin-top: -1280px;
+  margin-bottom: 100px;
+ 
+  max-height: 90%;
+  margin-left: 300px;
+
+}
